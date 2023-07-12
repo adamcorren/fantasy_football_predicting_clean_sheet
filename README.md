@@ -1,4 +1,4 @@
-# fantasy_football_predicting_clean_sheet
+# Fantasy Football: Predicting Clean Sheets
 FPL 3 - Creating a BayesianRidge linear regression model to predict the probability of a team keeping a clean sheet in future matches.
 
 FBREF Football Player Data Scraper - https://github.com/adamcorren/fbref_football_player_data_scraper
