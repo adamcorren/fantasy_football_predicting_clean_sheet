@@ -9,7 +9,7 @@ Step 2: Predicting team goals - https://github.com/adamcorren/fantasy_football_p
 
 Step 4: Predicting player points - https://github.com/adamcorren/fantasy_football_predicting_player_points
 
-Step 5: Selecting teams - https://github.com/adamcorren/fantasy_football_selecting_teams
+Step 5: Selecting teams - https://github.com/adamcorren/fantasy_football_selecting_squads
 
 Project Report - https://github.com/adamcorren/fantasy_football_project_report
 
